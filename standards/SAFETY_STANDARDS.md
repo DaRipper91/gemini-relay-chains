@@ -13,7 +13,7 @@ To ensure the "honest and wholeful truth" of the system is preserved during auto
 ## 📂 Targeted Environments
 -   **Hidden Folders**: `~/.config/`, `~/.ssh/`, etc.
 -   **Root/System Directories**: `/etc/`, `/usr/local/bin/`.
--   **Device Hubs**: X88 Pro (RK3528), Nothing Phone (2a).
+-   **Device Hubs**: Nothing Phone (2a).
 
 ---
 *Codified by DaRipper91*

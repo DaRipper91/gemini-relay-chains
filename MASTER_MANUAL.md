@@ -22,9 +22,6 @@ This ecosystem is architected around specific hardware anchors. Do not attempt h
 *   **SoC**: MediaTek Dimensity 7200 Pro
 *   **Role**: Specialized Android engineering, MediaTek modding, and BROM recovery testing.
 
-### 📺 Hub: X88 Pro (RK3528)
-*   **Role**: Headless ARM server target. Currently undergoing Armbian flashing for media/network roles.
-
 ---
 
 ## 📁 II. REPOSITORY REGISTRY
