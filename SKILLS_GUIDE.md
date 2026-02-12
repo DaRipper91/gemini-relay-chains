@@ -25,6 +25,11 @@ How to use the most common Relay assets on `gemini-cli-termux`.
 *   *Usage*: `activate_skill(name="implementation-planner")`
 *   *Task*: "Read research_report.md and create an implementation plan for the new TUI."
 
+**Skill: `repomix-manager`**
+*   *Usage*: `activate_skill(name="repomix-manager")`
+*   *Task*: "Initialize the current repository with AI-Ready repomix standardization."
+*   *Output*: `repomix.config.json` and updated `README.md`.
+
 ### 🛠️ Tier 4: Synthesis
 **Skill: `code-implementer`**
 *   *Usage*: `activate_skill(name="code-implementer")`

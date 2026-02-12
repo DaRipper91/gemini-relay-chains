@@ -13,7 +13,7 @@ This document provides a unified directory of all enabled agent skills and Gem-b
 *   **Gems**: `The Grinder`, `Master Auditor v2`.
 
 ### Tier 3: Architecture (The Architect)
-*   **Agent Skills**: `implementation-planner`, `plan-reviewer`, `prd-drafter`, `ticket-manager`.
+*   **Agent Skills**: `implementation-planner`, `plan-reviewer`, `prd-drafter`, `ticket-manager`, `repomix-manager`.
 *   **Gems**: `Da-Architect`, `The Prompt Architect`, `JulesPrompter`.
 
 ### Tier 4: Synthesis (The Hand)
