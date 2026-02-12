@@ -12,8 +12,9 @@ Every transition between tiers MUST include a physical handoff artifact. This pr
 3.  **Verification Artifact**: Produced by Tier 4. Proves the code matches the plan using actual test logs.
 4.  **Knowledge Artifact**: Produced by Tier 5. The final documentation (ManPages, README).
 
-## 🛠️ Termux Implementation
-On `gemini-cli-termux`, artifacts should be stored in:
-`~/Projects/[Project_Name]/relay_logs/`
+## 🛠️ Artifact Storage
+Artifacts should be stored in a project-relative directory to ensure portability across environments (Termux, Linux, VS Code):
 
-This ensures that even if a session is interrupted, the next agent in the relay can read the logs to find the "honest and wholeful truth."
+`./.gemini/relay_logs/`
+
+This ensures that even if a session is interrupted or moved to a different machine, the next agent in the relay can read the logs to find the "honest and wholeful truth."
